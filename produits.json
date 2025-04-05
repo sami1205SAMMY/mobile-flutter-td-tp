@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Produit 1",
+    "prix": 100,
+    "stock": 10,
+    "categorie": "test"
+  },
+  {
+    "nom": "Pain au chocolat",
+    "prix": 9.5,
+    "stock": 13,
+    "categorie": "Viennoiserie"
+  },
+  {
+    "nom": "Brioche",
+    "prix": 7,
+    "stock": 11,
+    "categorie": "Viennoiserie"
+  }
+]
