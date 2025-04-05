@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "produits": [
+      {
+        "nom": "Pain au chocolat",
+        "quantite": 2,
+        "prix": 9.5
+      },
+      {
+        "nom": "Brioche",
+        "quantite": 1,
+        "prix": 7
+      }
+    ],
+    "total": 26
+  }
+]
